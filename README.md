@@ -1,6 +1,6 @@
 # 📊 Sales & Profit Overview | Product Performance & Profitability Dashboard
 
-> **An end-to-end Power BI analytics project analyzing 8,314 orders across 2021–2024, covering $1.93M in total sales and $247.96K in profit — uncovering product profitability gaps, category performance, and geographic revenue distribution to drive smarter business decisions.**
+> **An end-to-end Power BI analytics project analyzing 8,314 orders across 2021–2024, covering $1.93M in total sales and $247.96K in profit uncovering product profitability gaps, category performance, and geographic revenue distribution to drive smarter business decisions.**
 
 ---
 
@@ -26,9 +26,9 @@
 ## 🧩 Business Context & Objectives
 
 ### The Business Problem
-Retail and e-commerce businesses often operate with a dangerous blind spot — strong top-line sales figures that mask serious profitability problems underneath. A product category can generate millions in revenue while simultaneously destroying profit through discounting, returns, and operational inefficiencies.
+Retail and e-commerce businesses often operate with a dangerous blind spot strong top-line sales figures that mask serious profitability problems underneath. A product category can generate millions in revenue while simultaneously destroying profit through discounting, returns, and operational inefficiencies.
 
-This project was built to eliminate that blind spot. The goal was to build a comprehensive sales and profitability intelligence system that allows business leaders to see not just what is selling — but what is actually making money, what is losing money, and where strategic action is needed.
+This project was built to eliminate that blind spot. The goal was to build a comprehensive sales and profitability intelligence system that allows business leaders to see not just what is selling but what is actually making money, what is losing money, and where strategic action is needed.
 
 ### Business Objectives
 
@@ -36,7 +36,7 @@ This project was built to eliminate that blind spot. The goal was to build a com
 Monitor total orders, sales, quantity, and profit with prior year benchmarks and percentage growth indicators to assess business trajectory.
 
 **2. Identify Profitable vs Loss-Making Products and Categories**
-Move beyond revenue reporting to true profitability analysis — identifying which products and subcategories are generating returns and which are eroding the bottom line.
+Move beyond revenue reporting to true profitability analysis identifying which products and subcategories are generating returns and which are eroding the bottom line.
 
 **3. Analyse Seasonal Sales and Profit Patterns**
 Understand monthly trends in sales and profit to identify seasonal peaks, dips, and anomalies that require operational response.
@@ -45,7 +45,7 @@ Understand monthly trends in sales and profit to identify seasonal peaks, dips, 
 Identify highest and lowest performing states to support targeted sales strategies and regional resource allocation decisions.
 
 **5. Segment and Rank Customers by Value**
-Identify high-value customers driving disproportionate revenue and profit — and flag customers generating sales at a net loss.
+Identify high-value customers driving disproportionate revenue and profit and flag customers generating sales at a net loss.
 
 ---
 
@@ -63,7 +63,7 @@ Identify high-value customers driving disproportionate revenue and profit — an
 
 **Data Validation:**
 - Checked for and removed duplicate OrderIDs
-- Validated date fields — ensured all OrderDate values fall within the 2021–2024 range
+- Validated date fields ensured all OrderDate values fall within the 2021–2024 range
 - Confirmed no NULL values in critical fields (Sales, Profit, Category, State)
 - Cross-checked total Sales and Profit figures against source aggregates
 
@@ -87,11 +87,11 @@ Identify high-value customers driving disproportionate revenue and profit — an
 This project uses a **three-layer profitability analysis framework:**
 
 ```
-Layer 1 — Portfolio Overview (Are we growing?)
+Layer 1 - Portfolio Overview (Are we growing?)
        ↓
-Layer 2 — Profitability Diagnostics (Where are we making and losing money?)
+Layer 2 - Profitability Diagnostics (Where are we making and losing money?)
        ↓
-Layer 3 — Geographic & Customer Intelligence (Who and where is driving performance?)
+Layer 3 - Geographic & Customer Intelligence (Who and where is driving performance?)
 ```
 
 ### Dashboard Design Approach
@@ -147,16 +147,16 @@ The geographic and customer intelligence page. Features total sales by year bar 
 ## 🔍 Key Insights & Findings
 
 ### 1. Profit is Growing Faster Than Sales — A Positive Signal
-Total profit grew 28.50% YoY while sales grew 23.36% — meaning **profit is outpacing revenue growth.** This indicates improving operational efficiency or a gradual shift toward higher-margin products. This trend should be actively protected and accelerated.
+Total profit grew 28.50% YoY while sales grew 23.36% meaning **profit is outpacing revenue growth.** This indicates improving operational efficiency or a gradual shift toward higher-margin products. This trend should be actively protected and accelerated.
 
 ### 2. Furniture is Generating Sales but Destroying Profit
 Furniture generated $17.89K in quantity sold but produced a **net loss of $12,327.** This is the single most critical finding in the entire report — a category that is actively consuming resources while delivering negative returns. Tables and Bookcases are the primary offenders with consistently negative profit margins.
 
 ### 3. 18.6% of All Orders Are Unprofitable
-Nearly 1 in 5 orders results in a loss — representing **$123,375 in total losses** across the portfolio. This is not a rounding error — it is a structural profitability problem that requires systematic investigation.
+Nearly 1 in 5 orders results in a loss representing **$123,375 in total losses** across the portfolio. This is not a rounding error it is a structural profitability problem that requires systematic investigation.
 
 ### 4. Office Supplies is the Profit Engine
-Despite not being the highest revenue category, Office Supplies generated **$45,255 in profit** — the highest of all three categories. Within Office Supplies, Paper ($27,976) and Storage ($17,478) are the star sub-categories.
+Despite not being the highest revenue category, Office Supplies generated **$45,255 in profit** the highest of all three categories. Within Office Supplies, Paper ($27,976) and Storage ($17,478) are the star sub-categories.
 
 ### 5. Technology Leads Revenue but Has Inconsistent Margins
 Technology generated $37,562 in profit on the highest revenue volume ($121.86K quantity). However, the Machines and Supplies sub-categories show near-zero or negative margins — dragging down what should be the highest-performing category.
@@ -165,7 +165,7 @@ Technology generated $37,562 in profit on the highest revenue volume ($121.86K q
 The monthly trend reveals a **notable profit dip in October** every year before a strong Q4 recovery. This pattern suggests seasonal demand shifts or promotional discounting in October that compresses margins — warranting a pricing strategy review for that month specifically.
 
 ### 7. Sales Peaked in 2023 Then Declined in 2024
-Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 2024 ($365.3K). The 2024 figure appears lower — likely reflecting a partial year in the dataset. The 2023 peak represents the strongest performance year and should be benchmarked against.
+Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 2024 ($365.3K). The 2024 figure appears lower likely reflecting a partial year in the dataset. The 2023 peak represents the strongest performance year and should be benchmarked against.
 
 ---
 
@@ -215,7 +215,7 @@ Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 
 | Pennsylvania | ($11,853.20) | $95,494.86 | 479 | -12.41% |
 | Florida | ($3,870.14) | $79,303.61 | 321 | -4.88% |
 
-**Critical Finding:** Texas is the 3rd highest revenue state but generates a **$21,067 net loss** — making it the most financially damaging state in the portfolio. Every sale in Texas is currently destroying value.
+**Critical Finding:** Texas is the 3rd highest revenue state but generates a **$21,067 net loss** making it the most financially damaging state in the portfolio. Every sale in Texas is currently destroying value.
 
 ### Top Customer Value Analysis
 
@@ -232,10 +232,10 @@ Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 
 ## 💡 Business Recommendations
 
 ### 1. 🔴 Urgently Review the Furniture Category
-Furniture is generating a net loss of $12,327 — specifically Tables (-$1,774 to -$1,081 per product) and Bookcases. Three options should be evaluated: (a) reprice furniture products to reflect true cost, (b) renegotiate supplier costs to restore margin, or (c) discontinue the worst-performing SKUs entirely. Doing nothing is not an option.
+Furniture is generating a net loss of $12,327 specifically Tables (-$1,774 to -$1,081 per product) and Bookcases. Three options should be evaluated: (a) reprice furniture products to reflect true cost, (b) renegotiate supplier costs to restore margin, or (c) discontinue the worst-performing SKUs entirely. Doing nothing is not an option.
 
 ### 2. 🛑 Address the Texas Problem Immediately
-Texas generates $151K in sales but loses $21K in profit — the worst state-level performance in the portfolio. A regional pricing audit should be conducted to identify whether the losses are driven by excessive discounting, high shipping costs, or product mix. Until resolved, marketing spend in Texas should be frozen.
+Texas generates $151K in sales but loses $21K in profit the worst state-level performance in the portfolio. A regional pricing audit should be conducted to identify whether the losses are driven by excessive discounting, high shipping costs, or product mix. Until resolved, marketing spend in Texas should be frozen.
 
 ### 3. 📈 Double Down on Office Supplies — Especially Paper and Labels
 Paper (49%+ margins on top products) and Labels are the highest-margin sub-categories in the entire business. Increasing inventory depth, improving availability, and running targeted promotions in these sub-categories would directly improve overall portfolio profitability.
@@ -247,7 +247,7 @@ The recurring October profit dip suggests either seasonal promotional discountin
 Raymond Buch (46.3% margin), Sanjit Chand (40.71%), and Adrian Barton (39.91%) are the most profitable customers by margin. These customers should be in an active retention programme — dedicated account management, early access to new products, and loyalty incentives. Losing one of these customers has an outsized impact on profitability.
 
 ### 6. ⚠️ Investigate Loss-Making Customer Relationships
-Becky Martin generates $11,789 in sales but produces a $1,659 net loss across 16 orders. This pattern — high volume, negative profit — suggests excessive discounting or product returns. A customer-level profitability review should be conducted for all customers with negative margins.
+Becky Martin generates $11,789 in sales but produces a $1,659 net loss across 16 orders. This pattern high volume, negative profit — suggests excessive discounting or product returns. A customer-level profitability review should be conducted for all customers with negative margins.
 
 ---
 
@@ -271,12 +271,12 @@ This dashboard is built on a 4-year historical dataset (2021–2024) and is desi
 
 **Short Term (1–3 months):**
 - Connect to live sales database for real-time dashboard refresh
-- Add a discount impact analysis — quantifying exactly how much profit is lost to discounting per product and category
+- Add a discount impact analysis quantifying exactly how much profit is lost to discounting per product and category
 - Build a what-if parameter allowing stakeholders to simulate the profit impact of price changes
 
 **Medium Term (3–6 months):**
 - Develop a customer lifetime value (CLV) model to predict future customer profitability
-- Add a returns analysis page — quantifying the profit impact of product returns by category
+- Add a returns analysis page quantifying the profit impact of product returns by category
 - Integrate shipping cost data to identify whether logistics costs are driving state-level losses
 
 **Long Term (6–12 months):**
@@ -367,7 +367,7 @@ SWITCH(TRUE(),
 ## 👤 Author
 
 **Faleye Olumide David**
-Data Analyst | Power BI Developer | Business Intelligence Analyst
+Data Analyst | Power BI Sales Analyst | Business Intelligence Analyst
 
 📍 Nigeria
 🔗 [LinkedIn](https://www.linkedin.com/in/olumide-david-79b17526a/)
