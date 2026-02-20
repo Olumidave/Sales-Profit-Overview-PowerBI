@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Business Context & Objectives](#-business-context--objectives)
 - [Data Sources & Preparation](#-data-sources--preparation)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧩 Business Context & Objectives
+## Business Context & Objectives
 
 ### The Business Problem
 Retail and e-commerce businesses often operate with a dangerous blind spot strong top-line sales figures that mask serious profitability problems underneath. A product category can generate millions in revenue while simultaneously destroying profit through discounting, returns, and operational inefficiencies.
@@ -137,14 +137,14 @@ The geographic and customer intelligence page. Features total sales by year bar 
 
 | Metric | Current Year | Prior Year | YoY Growth |
 |---|---|---|---|
-| 📦 Total Orders | 8,314 | 6,680 | ▲ 24.5% |
-| 💰 Total Sales | $1,930,000 | $1,563,593 | ▲ 23.36% |
-| 📦 Total Quantity | 32,000 | 25,388 | ▲ 24.11% |
-| 💵 Total Profit | $247,960 | $192,962 | ▲ 28.50% |
+| Total Orders | 8,314 | 6,680 | ▲ 24.5% |
+| Total Sales | $1,930,000 | $1,563,593 | ▲ 23.36% |
+| Total Quantity | 32,000 | 25,388 | ▲ 24.11% |
+| Total Profit | $247,960 | $192,962 | ▲ 28.50% |
 
 ---
 
-## 🔍 Key Insights & Findings
+##  Key Insights & Findings
 
 ### 1. Profit is Growing Faster Than Sales — A Positive Signal
 Total profit grew 28.50% YoY while sales grew 23.36% meaning **profit is outpacing revenue growth.** This indicates improving operational efficiency or a gradual shift toward higher-margin products. This trend should be actively protected and accelerated.
@@ -169,7 +169,7 @@ Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 
 
 ---
 
-## 📦 Product Profitability Analysis
+##  Product Profitability Analysis
 
 ### Top 10 Most Profitable Products
 
@@ -202,7 +202,7 @@ Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 
 
 ---
 
-## 🗺️ Geographic & Customer Analysis
+## Geographic & Customer Analysis
 
 ### Top 6 States by Sales & Profit
 
@@ -229,29 +229,29 @@ Annual sales trajectory: 2021 ($484K) → 2022 ($470.5K) → 2023 ($609.1K) → 
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
-### 1. 🔴 Urgently Review the Furniture Category
+### 1.  Urgently Review the Furniture Category
 Furniture is generating a net loss of $12,327 specifically Tables (-$1,774 to -$1,081 per product) and Bookcases. Three options should be evaluated: (a) reprice furniture products to reflect true cost, (b) renegotiate supplier costs to restore margin, or (c) discontinue the worst-performing SKUs entirely. Doing nothing is not an option.
 
-### 2. 🛑 Address the Texas Problem Immediately
+### 2.  Address the Texas Problem Immediately
 Texas generates $151K in sales but loses $21K in profit the worst state-level performance in the portfolio. A regional pricing audit should be conducted to identify whether the losses are driven by excessive discounting, high shipping costs, or product mix. Until resolved, marketing spend in Texas should be frozen.
 
-### 3. 📈 Double Down on Office Supplies — Especially Paper and Labels
+### 3.  Double Down on Office Supplies — Especially Paper and Labels
 Paper (49%+ margins on top products) and Labels are the highest-margin sub-categories in the entire business. Increasing inventory depth, improving availability, and running targeted promotions in these sub-categories would directly improve overall portfolio profitability.
 
-### 4. 🗓️ Investigate the October Profit Dip
+### 4.  Investigate the October Profit Dip
 The recurring October profit dip suggests either seasonal promotional discounting or demand-driven cost spikes. A pricing and discount analysis specifically for October orders should be conducted to determine the root cause and implement a margin protection strategy.
 
-### 5. 👥 Prioritize High-Margin Customers for Retention
+### 5.  Prioritize High-Margin Customers for Retention
 Raymond Buch (46.3% margin), Sanjit Chand (40.71%), and Adrian Barton (39.91%) are the most profitable customers by margin. These customers should be in an active retention programme — dedicated account management, early access to new products, and loyalty incentives. Losing one of these customers has an outsized impact on profitability.
 
-### 6. ⚠️ Investigate Loss-Making Customer Relationships
+### 6.  Investigate Loss-Making Customer Relationships
 Becky Martin generates $11,789 in sales but produces a $1,659 net loss across 16 orders. This pattern high volume, negative profit — suggests excessive discounting or product returns. A customer-level profitability review should be conducted for all customers with negative margins.
 
 ---
 
-## 🔄 Implementation, Monitoring & Next Steps
+##  Implementation, Monitoring & Next Steps
 
 ### Current Implementation
 This dashboard is built on a 4-year historical dataset (2021–2024) and is designed for quarterly business reviews and monthly profitability monitoring. All KPIs update dynamically when filtered by year using the year buttons at the top of each page.
@@ -286,7 +286,7 @@ This dashboard is built on a 4-year historical dataset (2021–2024) and is desi
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -297,7 +297,7 @@ This dashboard is built on a 4-year historical dataset (2021–2024) and is desi
 
 ---
 
-## 📐 Data Model & DAX
+##  Data Model & DAX
 
 ### Key DAX Measures
 
