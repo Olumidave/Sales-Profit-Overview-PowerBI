@@ -370,8 +370,9 @@ SWITCH(TRUE(),
 Data Analyst | Power BI Sales Analyst | Business Intelligence Analyst
 
 📍 Nigeria
+Interactive Report link: https://lnkd.in/eH8xhtdE
 🔗 [LinkedIn](https://www.linkedin.com/in/olumide-david-79b17526a/)
-🌐 Portfolio: *datascienceportfol.io* (coming soon)
+🌐 Portfolio: https://www.datascienceportfol.io/olumidedavid
 
 ---
 
