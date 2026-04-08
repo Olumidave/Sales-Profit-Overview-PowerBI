@@ -118,18 +118,15 @@ Sub-categories were ranked by profit margin percentage to identify **stars** (hi
 
 ### Page 1 — Overview
 The executive summary page. Displays total orders, sales, quantity, and profit KPIs with prior year comparisons and YoY growth percentages. Features a monthly sales and profit trend line chart, a category quantity donut chart, and a product breakdown drill-down from Category → Sub-Category → Product.
-
-![Overview Dashboard](Sales%20Overview.png)
+![Overview](Overview.png)
 
 ### Page 2 — Profitability
 The profitability diagnostic page. Shows unprofitable orders percentage, total loss figure, a Sales vs Profit scatter plot to identify problem products, profit margin % by sub-category bar chart, and ranked tables of the Top 10 most profitable and Bottom 10 most loss-making products.
-
-![Profitability Dashboard](Sales%20Profitability.png)
+![Profitability](Profitability.png)
 
 ### Page 3 — Sales & Geography
 The geographic and customer intelligence page. Features total sales by year bar chart, a US state map showing sales distribution, a top 10 states table with profit margin analysis, and a top customer value table showing sales, profit, and margin by customer.
-
-![Geography Dashboard](Sales%20Geography.png)
+![Sales and Geography](Sales%20and%20Geography.png)
 
 ---
 
