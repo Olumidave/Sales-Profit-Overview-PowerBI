@@ -118,7 +118,6 @@ Sub-categories were ranked by profit margin percentage to identify **stars** (hi
 
 ### Page 1 — Overview
 The executive summary page. Displays total orders, sales, quantity, and profit KPIs with prior year comparisons and YoY growth percentages. Features a monthly sales and profit trend line chart, a category quantity donut chart, and a product breakdown drill-down from Category → Sub-Category → Product.
-![Overview](Overview.png)
 
 ### Page 2 — Profitability
 The profitability diagnostic page. Shows unprofitable orders percentage, total loss figure, a Sales vs Profit scatter plot to identify problem products, profit margin % by sub-category bar chart, and ranked tables of the Top 10 most profitable and Bottom 10 most loss-making products.
