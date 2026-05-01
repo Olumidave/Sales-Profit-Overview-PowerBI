@@ -118,15 +118,15 @@ Sub-categories were ranked by profit margin percentage to identify **stars** (hi
 
 ### Page 1 — Overview
 The executive summary page. Displays total orders, sales, quantity, and profit KPIs with prior year comparisons and YoY growth percentages. Features a monthly sales and profit trend line chart, a category quantity donut chart, and a product breakdown drill-down from Category → Sub-Category → Product.
-![Overview](Overview.png)
+![Sales Overview](./Sales%20and%20Profit%20Overview.png)
 
 ### Page 2 — Profitability
 The profitability diagnostic page. Shows unprofitable orders percentage, total loss figure, a Sales vs Profit scatter plot to identify problem products, profit margin % by sub-category bar chart, and ranked tables of the Top 10 most profitable and Bottom 10 most loss-making products.
-![Profitability](Profitability.png)
+![Profitability](./Profitability%20-%20Make%20or%20lose%20Money.png)
 
 ### Page 3 — Sales & Geography
 The geographic and customer intelligence page. Features total sales by year bar chart, a US state map showing sales distribution, a top 10 states table with profit margin analysis, and a top customer value table showing sales, profit, and margin by customer.
-![Sales and Geography](Sales%20and%20Geography.png)
+![Geography](./Sales%20and%20Geography%20-%20Who%20and%20Where.png)
 
 ---
 
@@ -367,7 +367,7 @@ SWITCH(TRUE(),
 Data Analyst | Power BI Sales Analyst | Business Intelligence Analyst
 
 📍 Nigeria
-Interactive Report link: https://lnkd.in/eH8xhtdE
+Interactive Report link: [https://lnkd.in/eH8xhtdE](https://app.powerbi.com/view?r=eyJrIjoiYjlhNTVjNzEtNzJmOC00NzViLWI3ZmYtMDJlNThiYWFjYTY3IiwidCI6IjIxZjFhZWYwLTc3MDUtNDRkYS1hYzk4LTA0NDUwOGE0YmYyYyJ9)
 🔗 [LinkedIn](https://www.linkedin.com/in/olumide-david-79b17526a/)
 🌐 Portfolio: https://www.datascienceportfol.io/olumidedavid
 
